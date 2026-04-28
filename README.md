@@ -1,1 +1,13 @@
-# cybersecurity-roadmap-journey
+# Cybersecurity Roadmap Journey 🛡️
+
+A daily journal and documentation of my practical lab exercises, troubleshooting, and networking tasks. 
+
+## 💻 Environment & Tools
+* **Primary OS:** Kali Linux
+* **Languages:** Python, C++
+* **Focus Area:** Defensive Security & Network Protocols
+
+## 📚 Lab Logs
+
+* [Day 1: Hardware and Connections](./Day_01_Hardware_and_Connections.md)
+* [Day 2: OS Independent Troubleshooting](./Day_02_OS_Independent_Troubleshooting.md)
